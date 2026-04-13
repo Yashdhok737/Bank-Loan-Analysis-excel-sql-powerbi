@@ -1,4 +1,4 @@
-#  Bank Loan Analysis 
+# 📊Bank Loan Analysis 
 
 
 ###  Overview
@@ -120,6 +120,6 @@ Email : dhokyash4@gmail.com
 
 LinkedIn : www.linkedin.com/in/yash-dhok-375a58319
 
-### ⭐ If you like this project
+### 🔗 If you like this project
 
 Give it a ⭐ on GitHub and share your feedback!
