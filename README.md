@@ -1,8 +1,11 @@
 #  Bank Loan Analysis 
 
+
 ###  Overview
 
 This project focuses on analyzing bank loan data to extract meaningful insights related to loan applications, approvals, customer profiles, and financial risk. The analysis helps in understanding lending patterns and supports data-driven decision-making.
+
+<img width="1260" height="704" alt="Overview" src="https://github.com/user-attachments/assets/947c888e-595d-4549-bb8e-1e066a89a903" />
 
 ###  Objectives
 - Analyze loan application trends (MTD, YTD)
@@ -109,9 +112,13 @@ This project demonstrates how combining Excel, SQL, and Power BI enables effecti
 - Integrate real-time data pipelines
 - Enhance dashboard with advanced analytics
 
-###  Author
+###  Author & Contact
 
-Yash Dhok
+#### Yash Dhok
+
+Email : dhokyash4@gmail.com
+
+LinkedIn : www.linkedin.com/in/yash-dhok-375a58319
 
 ### ⭐ If you like this project
 
