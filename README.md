@@ -5,7 +5,8 @@
 
 This project focuses on analyzing bank loan data to extract meaningful insights related to loan applications, approvals, customer profiles, and financial risk. The analysis helps in understanding lending patterns and supports data-driven decision-making.
 
-<img width="1260" height="704" alt="Overview" src="https://github.com/user-attachments/assets/947c888e-595d-4549-bb8e-1e066a89a903" />
+<img width="1453" height="804" alt="Overview" src="https://github.com/user-attachments/assets/9b9fa172-c54a-45a4-ba42-509e77039998" />
+
 
 ###  Objectives
 - Analyze loan application trends (MTD, YTD)
